@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ejercicio1Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-08T00:44:01" hostname="DESKTOP-AGU9TA1" time="0.033">
+  <properties/>
+  <testcase name="la calificacion inicial debe ser null()" classname="Ejercicio1Test" time="0.027"/>
+  <testcase name="debe permitir modificar la calificacion del estudiante()" classname="Ejercicio1Test" time="0.001"/>
+  <testcase name="el nombre y legajo no deben ser modificables()" classname="Ejercicio1Test" time="0.0"/>
+  <testcase name="debe crear un estudiante con nombre y legajo()" classname="Ejercicio1Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
